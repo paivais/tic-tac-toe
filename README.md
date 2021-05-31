@@ -1,2 +1,9 @@
 # tic-tac-toe
 Tic Tac Toe game
+GROUP MEMBERS:
+* PAIVA IVAN - 219154325
+* SOLUNGA EDUARDO - 219154333
+* AMELIA KENYA - 219067627
+
+Assignment Details[Total Marks 100]Thisassignmentismeanttogivestudentsanopportunitytodemonstratewhattheyhavelearnedin thiscourseinparticulartheC++conceptsand develop application that are able to make the lifeof the Namibian citizen easy.30%ofastudent’ssemester markcomesfromthis assignmentandifastudenthasbeenattendingtheoryclassesand attempting the practical labs ,littleextraeffortwillbe requiredtocompletethis assignment.[Submissionisviaelearning(Moodle)andtheDeadlineis31May2021]Task:ThisAssignmentrequiresyoutodemonstrateeverything youhavelearnedduringthiscourse inyourfinalproject.Itshouldbeafully-fledgedC++program,writtenentirely fromthescratchby you,satisfyingtherequirementsspecifiedbelow.Wearenotforcingyoutoworkonanythingspecificproblem,you should comeup with any idea that you want for the final project(Localgameapplications are welcome.)Yourproblem should NOT be part of these problems:•Banking systems•Gym management system•Hotel, Restaurant, shopmanagement system•Booking Systems•Hospital management System•Student management system•System that was created for another course as a projectNB:ThelecturerisawareofexistingC++Projectsontheinternet,thereforedownloading oneofthoseprojectsand submittingitasit yourswill attract aresultof0%.Requirements:1.  Yourprojectshouldbe largeenoughtotakeabout10-17hoursof coding.2.  Yourprojectmustmakeuseofallof thefollowing:•Classes(preferablyusingadvanced classfeaturessuchasinheritanceandpolymorphism)•Functions•operatoroverloading•CopyConstructors
+•Friends class and functions •TemplateClassesandfunctions•Pointers•Fileinputandoutput•StaticandDynamic allocationof memory•VirtualMethods•STL(Standard TemplateLibrary3.It isveryimportantthatyouwriteeasilyreadable,well-designedcode
