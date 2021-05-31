@@ -1,0 +1,4 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(513,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (WXWidgetsTest.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  WXWidgetsTest.cpp
+C:\Users\ivan\source\repos\WXWidgetsTest\WXWidgetsTest\WXWidgetsTest.cpp(99): warning C4715: 'checkBoard': not all control paths return a value
+  WXWidgetsTest.vcxproj -> C:\Users\ivan\source\repos\WXWidgetsTest\x64\Debug\ticTacToe.exe
